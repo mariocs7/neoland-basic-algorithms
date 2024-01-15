@@ -1,1 +1,1 @@
-# neoland-basic-algorithms
+# neoland-basic-functions
